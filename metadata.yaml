@@ -1,0 +1,28 @@
+_repo: The-Lure-of-the-Labrador-Wild_4019
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wallace, Dillon
+    birthdate: 1863
+    deathdate: 1939
+    gutenberg_agent_id: '1361'
+    url: http://www.gutenberg.org/2009/agents/1361
+    wikipedia: http://en.wikipedia.org/wiki/Dillon_Wallace
+description: ''
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4019'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hubbard, Leonidas, 1872-1903'
+- !lcsh 'Explorers -- Newfoundland and Labrador -- Biography'
+- !lcsh 'Labrador (N.L.) -- Discovery and exploration'
+- !lcc 'F1001'
+- !lcsh 'Wallace, Dillon, 1863-1939'
+- GITenberg
+title: The Lure of the Labrador Wild
+url: http://www.gutenberg.org/ebooks/4019
